@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ElyosComputers.TestPhoneGap1_1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>TestPhoneGap1_1</name>
+    <description>
+        A Test for changing platform.
+    </description>
+    <author email="soroush.elyasi343@gmail.com" href="http://phonegap.com">
+        ElyosComputers
+    </author>
+    <preference name="orientation" value="portrait" />
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
